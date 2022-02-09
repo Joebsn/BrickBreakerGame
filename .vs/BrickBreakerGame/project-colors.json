@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bad20712-0705-4013-a69b-42d9608341f5": {
+      "ProjectGuid": "bad20712-0705-4013-a69b-42d9608341f5",
+      "DisplayName": "BrickBreakerGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

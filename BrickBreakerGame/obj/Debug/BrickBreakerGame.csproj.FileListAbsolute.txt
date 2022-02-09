@@ -1,0 +1,11 @@
+D:\Codes\C#\BrickBreakerGame\BrickBreakerGame\obj\Debug\BrickBreakerGame.csproj.AssemblyReference.cache
+D:\Codes\C#\BrickBreakerGame\BrickBreakerGame\obj\Debug\BrickBreakerGame.csproj.SuggestedBindingRedirects.cache
+D:\Codes\C#\BrickBreakerGame\BrickBreakerGame\obj\Debug\BrickBreakerGame.BrickBreaker.resources
+D:\Codes\C#\BrickBreakerGame\BrickBreakerGame\obj\Debug\BrickBreakerGame.Properties.Resources.resources
+D:\Codes\C#\BrickBreakerGame\BrickBreakerGame\obj\Debug\BrickBreakerGame.csproj.GenerateResource.cache
+D:\Codes\C#\BrickBreakerGame\BrickBreakerGame\obj\Debug\BrickBreakerGame.csproj.CoreCompileInputs.cache
+D:\Codes\C#\BrickBreakerGame\BrickBreakerGame\bin\Debug\BrickBreakerGame.exe.config
+D:\Codes\C#\BrickBreakerGame\BrickBreakerGame\bin\Debug\BrickBreakerGame.exe
+D:\Codes\C#\BrickBreakerGame\BrickBreakerGame\bin\Debug\BrickBreakerGame.pdb
+D:\Codes\C#\BrickBreakerGame\BrickBreakerGame\obj\Debug\BrickBreakerGame.exe
+D:\Codes\C#\BrickBreakerGame\BrickBreakerGame\obj\Debug\BrickBreakerGame.pdb
